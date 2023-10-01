@@ -1,0 +1,14 @@
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\bin\Debug\net7.0\Starfield-Grav-Jump.exe
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\bin\Debug\net7.0\Starfield-Grav-Jump.deps.json
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\bin\Debug\net7.0\Starfield-Grav-Jump.runtimeconfig.json
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\bin\Debug\net7.0\Starfield-Grav-Jump.dll
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\bin\Debug\net7.0\Starfield-Grav-Jump.pdb
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\obj\Debug\net7.0\Starfield-Grav-Jump.GeneratedMSBuildEditorConfig.editorconfig
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\obj\Debug\net7.0\Starfield-Grav-Jump.AssemblyInfoInputs.cache
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\obj\Debug\net7.0\Starfield-Grav-Jump.AssemblyInfo.cs
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\obj\Debug\net7.0\Starfield-Grav-Jump.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\obj\Debug\net7.0\Starfield-Grav-Jump.dll
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\obj\Debug\net7.0\refint\Starfield-Grav-Jump.dll
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\obj\Debug\net7.0\Starfield-Grav-Jump.pdb
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\obj\Debug\net7.0\Starfield-Grav-Jump.genruntimeconfig.cache
+D:\xampp\htdocs\localweb\Starfield-Grav-Jump\obj\Debug\net7.0\ref\Starfield-Grav-Jump.dll
